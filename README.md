@@ -8,6 +8,7 @@ Recommend Hardware Requirements for Prover Program Installation
 - Disk: 100 GB SSD
 - Bandwidth: 100 KB/s upload/download
 - Supported Operating Systems: Linux
+- You’ll need **VPS 2 specs** if you're using Contabo.
 
 🎯 Goal:
 Run the Prover and complete tasks to earn rewards.
